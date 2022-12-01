@@ -1,4 +1,4 @@
-Just a course work of practising I2I Translation.
+Just a course work of practising I2I Translation. I forked the original **cycada_release** project, and use several pictures to test it.
 
 2022.07-2022.08 
 
